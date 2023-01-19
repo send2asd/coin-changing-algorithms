@@ -1,0 +1,48 @@
+
+Coin Used: [10, 1]
+Time taken: 16
+Algo used: greedy
+
+Minimum coin-count: 2
+Time taken: 32
+Algo used: recursion
+
+Coin Used: [10, 1]
+Time taken: 33
+Algo used: dp
+
+Coin Used: [10, 10, 1, 1, 1]
+Time taken: 12
+Algo used: greedy
+
+Minimum coin-count: 5
+Time taken: 883
+Algo used: recursion
+
+Coin Used: [10, 10, 1, 1, 1]
+Time taken: 44
+Algo used: dp
+
+Coin Used: [25, 5, 1]
+Time taken: 12
+Algo used: greedy
+
+Minimum coin-count: 3
+Time taken: 9146
+Algo used: recursion
+
+Coin Used: [25, 5, 1]
+Time taken: 67
+Algo used: dp
+
+Coin Used: [25, 25, 1]
+Time taken: 12
+Algo used: greedy
+
+Minimum coin-count: 3
+Time taken: 4171674
+Algo used: recursion
+
+Coin Used: [25, 25, 1]
+Time taken: 113
+Algo used: dp
